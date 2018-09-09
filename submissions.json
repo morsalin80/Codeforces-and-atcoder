@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF42718042": {
+    "contest_id": 870,
+    "language": "Java 8",
+    "path": "codeforces\\870\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Search for Pretty Integers",
+    "problem_url": "https://codeforces.com/contest/870/problem/A",
+    "submission_id": "CF42718042",
+    "submission_url": "https://codeforces.com/contest/870/submission/42718042",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/10/2018 02:49"
+  },
   "CF42718427": {
     "contest_id": 59,
     "language": "Java 8",
