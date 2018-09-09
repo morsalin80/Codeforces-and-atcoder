@@ -5178,6 +5178,24 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF42716691": {
+    "contest_id": 868,
+    "language": "Java 8",
+    "path": "codeforces\\868\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bark to Unlock",
+    "problem_url": "https://codeforces.com/contest/868/problem/A",
+    "submission_id": "CF42716691",
+    "submission_url": "https://codeforces.com/contest/868/submission/42716691",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Sep/10/2018 01:41"
+  },
   "CF42717012": {
     "contest_id": 41,
     "language": "Java 8",
