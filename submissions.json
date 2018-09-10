@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF42737789": {
+    "contest_id": 208,
+    "language": "Java 8",
+    "path": "codeforces\\208\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF42737789",
+    "submission_url": "https://codeforces.com/contest/208/submission/42737789",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Sep/10/2018 20:36"
+  },
   "CF42738107": {
     "contest_id": 451,
     "language": "Java 8",
