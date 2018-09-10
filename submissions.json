@@ -5178,6 +5178,24 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF42738544": {
+    "contest_id": 723,
+    "language": "Java 8",
+    "path": "codeforces\\723\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The New Year: Meeting Friends",
+    "problem_url": "https://codeforces.com/contest/723/problem/A",
+    "submission_id": "CF42738544",
+    "submission_url": "https://codeforces.com/contest/723/submission/42738544",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/10/2018 20:58"
+  },
   "CF42738888": {
     "contest_id": 617,
     "language": "Java 8",
