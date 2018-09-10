@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF42738107": {
+    "contest_id": 451,
+    "language": "Java 8",
+    "path": "codeforces\\451\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game With Sticks",
+    "problem_url": "https://codeforces.com/contest/451/problem/A",
+    "submission_id": "CF42738107",
+    "submission_url": "https://codeforces.com/contest/451/submission/42738107",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/10/2018 20:46"
+  },
   "CF42738544": {
     "contest_id": 723,
     "language": "Java 8",
