@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF42874852": {
+    "contest_id": 510,
+    "language": "GNU C++11",
+    "path": "codeforces\\510\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fox And Snake",
+    "problem_url": "https://codeforces.com/contest/510/problem/A",
+    "submission_id": "CF42874852",
+    "submission_url": "https://codeforces.com/contest/510/submission/42874852",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/15/2018 04:34"
+  },
   "CF42875192": {
     "contest_id": 141,
     "language": "GNU C++11",
