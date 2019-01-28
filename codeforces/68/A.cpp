@@ -2,23 +2,13 @@
 using namespace std;
 int main()
 {
-    int ar[4],a,b;
-    int co=0;
+    int p[4],a,b;
     for(int i=0;i<4;i++)
-        cin>>ar[i];
+        cin>>p[i];
     cin>>a>>b;
-    for(int i=a;i<=b;i++)
-    {
-        do{
-            int eq = i%ar[0];
-            eq = eq%ar[1];
-            eq = eq%ar[2];
-            eq = eq%ar[3];
-            if(eq==i){
-                co++;
-                break;}
-        }while(next_permutation(ar,ar+4));
-    }
-    cout << co <<endl;
+    sort(p,p+4);
+    if(p[0]-a<=0) cout << "0\n";
+    else if(p[0]>b) cout << (b-a)+1 <<endl;
+    else cout << p[0]-a<<endl;
     return 0;
 }
