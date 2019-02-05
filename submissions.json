@@ -5178,6 +5178,24 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF49503330": {
+    "contest_id": 822,
+    "language": "GNU C++11",
+    "path": "codeforces\\822\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I'm bored with life",
+    "problem_url": "https://codeforces.com/contest/822/problem/A",
+    "submission_id": "CF49503330",
+    "submission_url": "https://codeforces.com/contest/822/submission/49503330",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Feb/05/2019 22:18"
+  },
   "CF49503666": {
     "contest_id": 630,
     "language": "GNU C++11",
