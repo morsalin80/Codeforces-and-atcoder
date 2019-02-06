@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF49520161": {
+    "contest_id": 472,
+    "language": "GNU C++11",
+    "path": "codeforces\\472\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Design Tutorial: Learn from Math",
+    "problem_url": "https://codeforces.com/contest/472/problem/A",
+    "submission_id": "CF49520161",
+    "submission_url": "https://codeforces.com/contest/472/submission/49520161",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Feb/06/2019 13:16"
+  },
   "CF49521148": {
     "contest_id": 313,
     "language": "GNU C++11",
