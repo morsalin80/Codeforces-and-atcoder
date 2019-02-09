@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF49677291": {
+    "contest_id": 996,
+    "language": "GNU C++11",
+    "path": "codeforces\\996\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hit the Lottery",
+    "problem_url": "https://codeforces.com/contest/996/problem/A",
+    "submission_id": "CF49677291",
+    "submission_url": "https://codeforces.com/contest/996/submission/49677291",
+    "tags": [
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/10/2019 02:42"
+  },
   "CF49677409": {
     "contest_id": 959,
     "language": "GNU C++11",
