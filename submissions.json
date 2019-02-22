@@ -5178,6 +5178,19 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF50331372": {
+    "contest_id": 746,
+    "language": "GNU C++11",
+    "path": "codeforces\\746\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Compote",
+    "problem_url": "https://codeforces.com/contest/746/problem/A",
+    "submission_id": "CF50331372",
+    "submission_url": "https://codeforces.com/contest/746/submission/50331372",
+    "tags": [],
+    "timestamp": "Feb/23/2019 00:41"
+  },
   "CF50331835": {
     "contest_id": 378,
     "language": "GNU C++11",
