@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF50366506": {
+    "contest_id": 1131,
+    "language": "GNU C++11",
+    "path": "codeforces\\1131\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sea Battle",
+    "problem_url": "https://codeforces.com/contest/1131/problem/A",
+    "submission_id": "CF50366506",
+    "submission_url": "https://codeforces.com/contest/1131/submission/50366506",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2019 16:58"
+  },
   "CF50385173": {
     "contest_id": 1131,
     "language": "GNU C++11",
