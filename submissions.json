@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF50483234": {
+    "contest_id": 1130,
+    "language": "GNU C++11",
+    "path": "codeforces\\1130\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Be Positive",
+    "problem_url": "https://codeforces.com/contest/1130/problem/A",
+    "submission_id": "CF50483234",
+    "submission_url": "https://codeforces.com/contest/1130/submission/50483234",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/25/2019 16:12"
+  },
   "CF50485637": {
     "contest_id": 1130,
     "language": "GNU C++11",
