@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF50485637": {
+    "contest_id": 1130,
+    "language": "GNU C++11",
+    "path": "codeforces\\1130\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Cakes",
+    "problem_url": "https://codeforces.com/contest/1130/problem/B",
+    "submission_id": "CF50485637",
+    "submission_url": "https://codeforces.com/contest/1130/submission/50485637",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Feb/25/2019 17:24"
+  },
   "CF50630396": {
     "contest_id": 976,
     "language": "GNU C++11",
