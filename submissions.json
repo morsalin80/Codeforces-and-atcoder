@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF50759771": {
+    "contest_id": 361,
+    "language": "GNU C++11",
+    "path": "codeforces\\361\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Levko and Table",
+    "problem_url": "https://codeforces.com/contest/361/problem/A",
+    "submission_id": "CF50759771",
+    "submission_url": "https://codeforces.com/contest/361/submission/50759771",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/04/2019 00:44"
+  },
   "CF50810167": {
     "contest_id": 181,
     "language": "GNU C++11",
