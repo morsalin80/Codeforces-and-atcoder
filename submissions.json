@@ -5178,6 +5178,25 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF50756103": {
+    "contest_id": 629,
+    "language": "GNU C++11",
+    "path": "codeforces\\629\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Far Relative\u2019s Birthday Cake",
+    "problem_url": "https://codeforces.com/contest/629/problem/A",
+    "submission_id": "CF50756103",
+    "submission_url": "https://codeforces.com/contest/629/submission/50756103",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2019 23:24"
+  },
   "CF50756734": {
     "contest_id": 426,
     "language": "GNU C++11",
