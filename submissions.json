@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF54901683": {
+    "contest_id": 978,
+    "language": "GNU C++11",
+    "path": "codeforces\\978\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bus Video System",
+    "problem_url": "https://codeforces.com/contest/978/problem/E",
+    "submission_id": "CF54901683",
+    "submission_url": "https://codeforces.com/contest/978/submission/54901683",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jun/01/2019 12:56"
+  },
   "CF55295630": {
     "contest_id": 892,
     "language": "GNU C++11",
