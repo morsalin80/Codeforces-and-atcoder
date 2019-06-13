@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF55538170": {
+    "contest_id": 990,
+    "language": "GNU C++11",
+    "path": "codeforces\\990\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Micro-World",
+    "problem_url": "https://codeforces.com/contest/990/problem/B",
+    "submission_id": "CF55538170",
+    "submission_url": "https://codeforces.com/contest/990/submission/55538170",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jun/13/2019 23:45"
+  },
   "CF55550095": {
     "contest_id": 990,
     "language": "GNU C++11",
