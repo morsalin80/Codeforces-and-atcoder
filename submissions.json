@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF55535778": {
+    "contest_id": 569,
+    "language": "GNU C++11",
+    "path": "codeforces\\569\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Music",
+    "problem_url": "https://codeforces.com/contest/569/problem/A",
+    "submission_id": "CF55535778",
+    "submission_url": "https://codeforces.com/contest/569/submission/55535778",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jun/13/2019 22:19"
+  },
   "CF55536197": {
     "contest_id": 990,
     "language": "GNU C++11",
