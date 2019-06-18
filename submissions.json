@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF55708956": {
+    "contest_id": 535,
+    "language": "GNU C++11",
+    "path": "codeforces\\535\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tavas and Nafas",
+    "problem_url": "https://codeforces.com/contest/535/problem/A",
+    "submission_id": "CF55708956",
+    "submission_url": "https://codeforces.com/contest/535/submission/55708956",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/18/2019 15:14"
+  },
   "CF55712610": {
     "contest_id": 994,
     "language": "GNU C++11",
