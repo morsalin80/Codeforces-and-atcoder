@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF55775305": {
+    "contest_id": 1185,
+    "language": "GNU C++11",
+    "path": "codeforces\\1185\\C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Exam in BerSU (easy version)",
+    "problem_url": "https://codeforces.com/contest/1185/problem/C1",
+    "submission_id": "CF55775305",
+    "submission_url": "https://codeforces.com/contest/1185/submission/55775305",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jun/19/2019 21:45"
+  },
   "CF55810441": {
     "contest_id": 992,
     "language": "GNU C++11",
