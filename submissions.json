@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF55741482": {
+    "contest_id": 992,
+    "language": "GNU C++11",
+    "path": "codeforces\\992\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nastya and an Array",
+    "problem_url": "https://codeforces.com/contest/992/problem/A",
+    "submission_id": "CF55741482",
+    "submission_url": "https://codeforces.com/contest/992/submission/55741482",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2019 13:41"
+  },
   "CF55758701": {
     "contest_id": 1185,
     "language": "GNU C++11",
