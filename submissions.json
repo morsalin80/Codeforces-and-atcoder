@@ -5178,6 +5178,25 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF56074347": {
+    "contest_id": 651,
+    "language": "GNU C++11",
+    "path": "codeforces\\651\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Watchmen",
+    "problem_url": "https://codeforces.com/contest/651/problem/C",
+    "submission_id": "CF56074347",
+    "submission_url": "https://codeforces.com/contest/651/submission/56074347",
+    "tags": [
+      "data structures",
+      "geometry",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/26/2019 18:07"
+  },
   "CF56083225": {
     "contest_id": 1183,
     "language": "GNU C++11",
