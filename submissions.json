@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF56265481": {
+    "contest_id": 574,
+    "language": "GNU C++11",
+    "path": "codeforces\\574\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bear and Poker",
+    "problem_url": "https://codeforces.com/contest/574/problem/C",
+    "submission_id": "CF56265481",
+    "submission_url": "https://codeforces.com/contest/574/submission/56265481",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jun/29/2019 15:40"
+  },
   "CF56267792": {
     "contest_id": 996,
     "language": "GNU C++11",
