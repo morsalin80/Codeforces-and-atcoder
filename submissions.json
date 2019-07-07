@@ -5178,6 +5178,24 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF56665245": {
+    "contest_id": 1003,
+    "language": "GNU C++11",
+    "path": "codeforces\\1003\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Intense Heat",
+    "problem_url": "https://codeforces.com/contest/1003/problem/C",
+    "submission_id": "CF56665245",
+    "submission_url": "https://codeforces.com/contest/1003/submission/56665245",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jul/07/2019 17:02"
+  },
   "CF56675580": {
     "contest_id": 450,
     "language": "GNU C++11",
