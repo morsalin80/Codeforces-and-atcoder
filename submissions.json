@@ -5178,6 +5178,25 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF59784833": {
+    "contest_id": 1004,
+    "language": "GNU C++11",
+    "path": "codeforces\\1004\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sonya and Exhibition",
+    "problem_url": "https://codeforces.com/contest/1004/problem/B",
+    "submission_id": "CF59784833",
+    "submission_url": "https://codeforces.com/contest/1004/submission/59784833",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Aug/31/2019 11:06"
+  },
   "CF59786933": {
     "contest_id": 535,
     "language": "GNU C++11",
