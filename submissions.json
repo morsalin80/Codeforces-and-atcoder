@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF60004242": {
+    "contest_id": 1214,
+    "language": "GNU C++11",
+    "path": "codeforces\\1214\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Badges",
+    "problem_url": "https://codeforces.com/contest/1214/problem/B",
+    "submission_id": "CF60004242",
+    "submission_url": "https://codeforces.com/contest/1214/submission/60004242",
+    "tags": [
+      "brute force",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/04/2019 16:28"
+  },
   "CF60008965": {
     "contest_id": 1214,
     "language": "GNU C++11",
