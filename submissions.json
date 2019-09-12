@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF60422547": {
+    "contest_id": 414,
+    "language": "GNU C++11",
+    "path": "codeforces\\414\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mashmokh and Numbers",
+    "problem_url": "https://codeforces.com/contest/414/problem/A",
+    "submission_id": "CF60422547",
+    "submission_url": "https://codeforces.com/contest/414/submission/60422547",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Sep/12/2019 12:46"
+  },
   "CF60516137": {
     "contest_id": 515,
     "language": "GNU C++11",
