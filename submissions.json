@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF62105020": {
+    "contest_id": 129,
+    "language": "GNU C++11",
+    "path": "codeforces\\129\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cookies",
+    "problem_url": "https://codeforces.com/contest/129/problem/A",
+    "submission_id": "CF62105020",
+    "submission_url": "https://codeforces.com/contest/129/submission/62105020",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Oct/08/2019 16:29"
+  },
   "CF62106417": {
     "contest_id": 617,
     "language": "GNU C++11",
