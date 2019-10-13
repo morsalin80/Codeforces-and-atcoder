@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF62459870": {
+    "contest_id": 463,
+    "language": "GNU C++11",
+    "path": "codeforces\\463\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Caisa and Sugar",
+    "problem_url": "https://codeforces.com/contest/463/problem/A",
+    "submission_id": "CF62459870",
+    "submission_url": "https://codeforces.com/contest/463/submission/62459870",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/13/2019 13:51"
+  },
   "CF62463303": {
     "contest_id": 285,
     "language": "GNU C++11",
