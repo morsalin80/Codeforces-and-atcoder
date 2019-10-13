@@ -28,15 +28,16 @@ bool sortinrev(const pair<int,int> &a,
 }
 int main()
 {
+	IOS
     int n,s,t;
-    while(scanf("%d%d%d",&n,&s,&t)!=EOF){
+    while(cin>>n>>s>>t){
         bool mark[n+1];
         ms(mark);
         map<int,int>mm;
         for(int i=1;i<=n;i++)
         {
             int x;
-            scanf("%d",&x);
+            cin>>x;
             mm[i] = x;
         }
         int w = s;
@@ -61,12 +62,14 @@ int main()
             }
         }
         if(!pos) {
-            printf("-1\n");
+            cout << "-1\n";
         }
         else if(pos)
         {
-            printf("%d\n",cnt);
+            cout << cnt << endl;
         }
     }
     return 0;
 }
+
+
