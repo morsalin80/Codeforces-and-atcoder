@@ -12286,6 +12286,23 @@
     "tags": [],
     "timestamp": "Nov/20/2019 17:00"
   },
+  "CF65431222": {
+    "contest_id": 1255,
+    "language": "GNU C++11",
+    "path": "codeforces\\1255\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fridge Lockers",
+    "problem_url": "https://codeforces.com/contest/1255/problem/B",
+    "submission_id": "CF65431222",
+    "submission_url": "https://codeforces.com/contest/1255/submission/65431222",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/20/2019 18:07"
+  },
   "CF66297826": {
     "contest_id": 1263,
     "language": "GNU C++11",
