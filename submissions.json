@@ -5178,6 +5178,25 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF66585445": {
+    "contest_id": 217,
+    "language": "GNU C++11",
+    "path": "codeforces\\217\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ice Skating",
+    "problem_url": "https://codeforces.com/contest/217/problem/A",
+    "submission_id": "CF66585445",
+    "submission_url": "https://codeforces.com/contest/217/submission/66585445",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Dec/10/2019 16:59"
+  },
   "CF66587136": {
     "contest_id": 349,
     "language": "GNU C++11",
