@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF66847960": {
+    "contest_id": 1277,
+    "language": "GNU C++11",
+    "path": "codeforces\\1277\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Them Odd",
+    "problem_url": "https://codeforces.com/contest/1277/problem/B",
+    "submission_id": "CF66847960",
+    "submission_url": "https://codeforces.com/contest/1277/submission/66847960",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Dec/14/2019 17:49"
+  },
   "CF66854446": {
     "contest_id": 1277,
     "language": "GNU C++11",
