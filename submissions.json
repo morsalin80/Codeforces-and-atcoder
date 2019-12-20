@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF67287656": {
+    "contest_id": 1157,
+    "language": "GNU C++11",
+    "path": "codeforces\\1157\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Number",
+    "problem_url": "https://codeforces.com/contest/1157/problem/B",
+    "submission_id": "CF67287656",
+    "submission_url": "https://codeforces.com/contest/1157/submission/67287656",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Dec/20/2019 20:42"
+  },
   "CF67295756": {
     "contest_id": 546,
     "language": "GNU C++11",
