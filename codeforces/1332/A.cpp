@@ -1,0 +1,68 @@
+/// Bismillahir Rahmanir Rahim
+
+#include<bits/stdc++.h>
+#define ll long long
+#define pb push_back
+#define mp make_pair
+#define f0(n) for(int i=0;i<n;i++)
+#define ms(x) memset(x,0,sizeof(x))
+#define ins insert
+#define ALL(v) v.begin(),v.end()
+#define highest(x) numeric_limits<x>::max()
+#define lowest(x) numeric_limits<x>::min()
+#define Inf INFINITY
+#define minv(v) *min_element(v.begin(),v.end())
+#define maxv(v) *max_element(v.begin(),v.end())
+#define PI acos(-1)
+#define IOS ios::sync_with_stdio(false);
+using namespace std;
+int dx8[] = {0, 0, 1, 1, 1, -1, -1, -1};
+int dy8[] = {1,-1, 1, -1, 0, 0, -1, 1};
+int dx4[] = {0, 0, 1, -1};
+int dy4[] = {1, -1, 0, 0};
+const long long MOD = 1000000007;
+template<typename T>inline T Bigmod(T base, T power, T MOD){
+    T ret=1;
+    while(power)
+    {
+        if(power & 1)ret=(ret*base)%MOD;
+        base=(base*base)%MOD;
+        power>>=1;
+    }
+    return ret;
+}
+
+bool sortinrev(const pair<int,int> &a,
+               const pair<int,int> &b)
+{
+       return (a.first > b.first);
+}
+int main()
+{
+    IOS
+    ll t;
+    cin>>t;
+    while(t--){
+        ll a,b,c,d;
+        cin>>a>>b>>c>>d;
+        ll x,y,x1,y1,x2,y2;
+
+        cin>>x>>y>>x1>>y1>>x2>>y2;
+        bool xok=0,yok=0;
+        if(x1==x2 && (a!=0 || b!=0)){
+            cout << "No\n";
+            continue;
+        }
+        if(y1==y2 && (c!=0 || d!=0)){
+            cout << "No\n";
+            continue;
+        }
+       // cout << (b+x1) << " "<< x2-a << endl << d-y1 << " "<< y2-c << endl;
+        if(a<=b+(x-x1) && b<=a+(x2-x)) xok=1;
+        if(c<=d+(y-y1) && d<=c+(y2-y)) yok=1;
+        if(xok && yok) cout << "Yes\n";
+        else cout << "No\n";
+    }
+    return 0;
+}
+///Alhamdulillah
