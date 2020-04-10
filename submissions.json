@@ -14377,6 +14377,25 @@
     ],
     "timestamp": "Apr/10/2020 19:52"
   },
+  "CF76170457": {
+    "contest_id": 1334,
+    "language": "GNU C++11",
+    "path": "codeforces\\1334\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Circle of Monsters",
+    "problem_url": "https://codeforces.com/contest/1334/problem/C",
+    "submission_id": "CF76170457",
+    "submission_url": "https://codeforces.com/contest/1334/submission/76170457",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/10/2020 22:03"
+  },
   "CF76204715": {
     "contest_id": 1285,
     "language": "GNU C++17",
