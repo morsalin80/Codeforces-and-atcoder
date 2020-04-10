@@ -14322,6 +14322,24 @@
     ],
     "timestamp": "Apr/10/2020 11:57"
   },
+  "CF76063425": {
+    "contest_id": 1285,
+    "language": "GNU C++11",
+    "path": "codeforces\\1285\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Just Eat It!",
+    "problem_url": "https://codeforces.com/contest/1285/problem/B",
+    "submission_id": "CF76063425",
+    "submission_url": "https://codeforces.com/contest/1285/submission/76063425",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/10/2020 13:02"
+  },
   "CF76069605": {
     "contest_id": 1249,
     "language": "GNU C++11",
