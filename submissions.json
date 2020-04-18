@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF77165652": {
+    "contest_id": 1225,
+    "language": "GNU C++17",
+    "path": "codeforces\\1225\\B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "TV Subscriptions (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1225/problem/B2",
+    "submission_id": "CF77165652",
+    "submission_url": "https://codeforces.com/contest/1225/submission/77165652",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Apr/18/2020 15:41"
+  },
   "CF77169522": {
     "contest_id": 1312,
     "language": "GNU C++17",
