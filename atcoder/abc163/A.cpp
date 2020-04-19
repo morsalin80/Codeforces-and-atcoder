@@ -41,10 +41,8 @@ int main()
 {
     IOS
     int n;
-    while(cin>>n){
-    double x = (double)2*1.0*PI*n*1.0 ;
-    cout <<fixed<<setprecision(5)<<x<< endl;
-    }
+    cin>>n;
+    cout << (double)2*PI*n << endl;
     return 0;
 }
 ///Alhamdulillah
