@@ -5178,6 +5178,22 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF79001208": {
+    "contest_id": 408,
+    "language": "GNU C++17",
+    "path": "codeforces\\408\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Line to Cashier",
+    "problem_url": "https://codeforces.com/contest/408/problem/A",
+    "submission_id": "CF79001208",
+    "submission_url": "https://codeforces.com/contest/408/submission/79001208",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/05/2020 01:53"
+  },
   "CF79002612": {
     "contest_id": 376,
     "language": "GNU C++17",
