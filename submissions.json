@@ -5178,6 +5178,24 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF79950495": {
+    "contest_id": 432,
+    "language": "GNU C++17",
+    "path": "codeforces\\432\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Football Kit",
+    "problem_url": "https://codeforces.com/contest/432/problem/B",
+    "submission_id": "CF79950495",
+    "submission_url": "https://codeforces.com/contest/432/submission/79950495",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/13/2020 12:48"
+  },
   "CF80067789": {
     "contest_id": 1350,
     "language": "GNU C++17",
