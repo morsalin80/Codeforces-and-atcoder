@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF80923442": {
+    "contest_id": 352,
+    "language": "GNU C++17",
+    "path": "codeforces\\352\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jeff and Periods",
+    "problem_url": "https://codeforces.com/contest/352/problem/B",
+    "submission_id": "CF80923442",
+    "submission_url": "https://codeforces.com/contest/352/submission/80923442",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "May/22/2020 16:14"
+  },
   "CF80924897": {
     "contest_id": 298,
     "language": "GNU C++17",
