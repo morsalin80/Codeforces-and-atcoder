@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF81661056": {
+    "contest_id": 441,
+    "language": "GNU C++14",
+    "path": "codeforces\\441\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Valera and Fruits",
+    "problem_url": "https://codeforces.com/contest/441/problem/B",
+    "submission_id": "CF81661056",
+    "submission_url": "https://codeforces.com/contest/441/submission/81661056",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/28/2020 06:48"
+  },
   "CF85547054": {
     "contest_id": 110,
     "language": "GNU C++14",
