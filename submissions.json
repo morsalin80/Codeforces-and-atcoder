@@ -1,4 +1,20 @@
 {
+  "AC13950346": {
+    "contest_id": "abc169",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc169\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Div Game",
+    "problem_url": "https://atcoder.jp/contests/abc169/tasks/abc169_d",
+    "submission_id": "AC13950346",
+    "submission_url": "https://atcoder.jp/contests/abc169/submissions/13950346",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/02/2020 15:40"
+  },
   "AC14220815": {
     "contest_id": "tokiomarine2020",
     "language": "C++ (GCC 9.2.1)",
