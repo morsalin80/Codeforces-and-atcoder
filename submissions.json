@@ -17156,6 +17156,22 @@
     ],
     "timestamp": "May/28/2020 06:48"
   },
+  "CF83131766": {
+    "contest_id": 137,
+    "language": "GNU C++14",
+    "path": "codeforces\\137\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation",
+    "problem_url": "https://codeforces.com/contest/137/problem/B",
+    "submission_id": "CF83131766",
+    "submission_url": "https://codeforces.com/contest/137/submission/83131766",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jun/08/2020 17:56"
+  },
   "CF83133370": {
     "contest_id": 242,
     "language": "GNU C++14",
