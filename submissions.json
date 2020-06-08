@@ -17156,6 +17156,23 @@
     ],
     "timestamp": "May/28/2020 06:48"
   },
+  "CF83133370": {
+    "contest_id": 242,
+    "language": "GNU C++14",
+    "path": "codeforces\\242\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heads or Tails",
+    "problem_url": "https://codeforces.com/contest/242/problem/A",
+    "submission_id": "CF83133370",
+    "submission_url": "https://codeforces.com/contest/242/submission/83133370",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/08/2020 18:15"
+  },
   "CF83135837": {
     "contest_id": 257,
     "language": "GNU C++14",
