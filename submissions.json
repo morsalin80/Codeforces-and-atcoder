@@ -17156,6 +17156,24 @@
     ],
     "timestamp": "May/28/2020 06:48"
   },
+  "CF83285152": {
+    "contest_id": 166,
+    "language": "GNU C++14",
+    "path": "codeforces\\166\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Median",
+    "problem_url": "https://codeforces.com/contest/166/problem/C",
+    "submission_id": "CF83285152",
+    "submission_url": "https://codeforces.com/contest/166/submission/83285152",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jun/10/2020 15:12"
+  },
   "CF83290220": {
     "contest_id": 492,
     "language": "GNU C++14",
