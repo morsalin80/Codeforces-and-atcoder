@@ -17156,6 +17156,23 @@
     ],
     "timestamp": "May/28/2020 06:48"
   },
+  "CF83676042": {
+    "contest_id": 1364,
+    "language": "GNU C++14",
+    "path": "codeforces\\1364\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Most socially-distanced subsequence",
+    "problem_url": "https://codeforces.com/contest/1364/problem/B",
+    "submission_id": "CF83676042",
+    "submission_url": "https://codeforces.com/contest/1364/submission/83676042",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jun/13/2020 22:50"
+  },
   "CF84416037": {
     "contest_id": 1367,
     "language": "GNU C++14",
