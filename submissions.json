@@ -1,4 +1,20 @@
 {
+  "AC14522926": {
+    "contest_id": "abc159",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc159\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Banned K",
+    "problem_url": "https://atcoder.jp/contests/abc159/tasks/abc159_d",
+    "submission_id": "AC14522926",
+    "submission_url": "https://atcoder.jp/contests/abc159/submissions/14522926",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/21/2020 15:54"
+  },
   "AC14523139": {
     "contest_id": "abc161",
     "language": "C++ (GCC 9.2.1)",
