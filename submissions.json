@@ -1,4 +1,20 @@
 {
+  "AC14715827": {
+    "contest_id": "abc158",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc158\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Count Balls",
+    "problem_url": "https://atcoder.jp/contests/abc158/tasks/abc158_b",
+    "submission_id": "AC14715827",
+    "submission_url": "https://atcoder.jp/contests/abc158/submissions/14715827",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/27/2020 15:30"
+  },
   "AC14716323": {
     "contest_id": "abc158",
     "language": "C++ (GCC 9.2.1)",
