@@ -1,4 +1,20 @@
 {
+  "AC15100870": {
+    "contest_id": "abc050",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc050\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Contest with Drinks Easy",
+    "problem_url": "https://atcoder.jp/contests/abc050/tasks/abc050_b",
+    "submission_id": "AC15100870",
+    "submission_url": "https://atcoder.jp/contests/abc050/submissions/15100870",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/09/2020 14:06"
+  },
   "AC15111092": {
     "contest_id": "abc173",
     "language": "C++ (GCC 9.2.1)",
