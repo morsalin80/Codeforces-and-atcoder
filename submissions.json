@@ -1,4 +1,20 @@
 {
+  "AC15298294": {
+    "contest_id": "abc156",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc156\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Beginner",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_a",
+    "submission_id": "AC15298294",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/15298294",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/18/2020 13:17"
+  },
   "AC15298337": {
     "contest_id": "abc156",
     "language": "C++ (GCC 9.2.1)",
