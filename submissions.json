@@ -1,4 +1,20 @@
 {
+  "AC15379395": {
+    "contest_id": "abc155",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc155\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Papers, Please",
+    "problem_url": "https://atcoder.jp/contests/abc155/tasks/abc155_b",
+    "submission_id": "AC15379395",
+    "submission_url": "https://atcoder.jp/contests/abc155/submissions/15379395",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/23/2020 19:55"
+  },
   "AC15416192": {
     "contest_id": "m-solutions2020",
     "language": "C++ (GCC 9.2.1)",
