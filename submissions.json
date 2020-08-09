@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF89392468": {
+    "contest_id": 66,
+    "language": "GNU C++14",
+    "path": "codeforces\\66\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Java",
+    "problem_url": "https://codeforces.com/contest/66/problem/A",
+    "submission_id": "CF89392468",
+    "submission_url": "https://codeforces.com/contest/66/submission/89392468",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Aug/09/2020 16:34"
+  },
   "CF89416194": {
     "contest_id": 1391,
     "language": "GNU C++14",
