@@ -5178,6 +5178,23 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF89957727": {
+    "contest_id": 591,
+    "language": "GNU C++14",
+    "path": "codeforces\\591\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rebranding",
+    "problem_url": "https://codeforces.com/contest/591/problem/B",
+    "submission_id": "CF89957727",
+    "submission_url": "https://codeforces.com/contest/591/submission/89957727",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Aug/14/2020 22:55"
+  },
   "CF89959239": {
     "contest_id": 340,
     "language": "GNU C++14",
