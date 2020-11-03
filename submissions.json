@@ -3034,6 +3034,24 @@
     ],
     "timestamp": "May/20/2021 20:54"
   },
+  "CF97530496": {
+    "contest_id": 1445,
+    "language": "GNU C++17",
+    "path": "codeforces\\1445\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Divide and Sum",
+    "problem_url": "https://codeforces.com/contest/1445/problem/D",
+    "submission_id": "CF97530496",
+    "submission_url": "https://codeforces.com/contest/1445/submission/97530496",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Nov/03/2020 12:14"
+  },
   "CF97556439": {
     "contest_id": 1437,
     "language": "GNU C++17",
