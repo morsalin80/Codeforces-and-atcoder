@@ -97,11 +97,11 @@ void solution(){
     int sum=0;
     f0(n){cin>>arr[i];sum+=arr[i];}
     sort(arr,arr+n);
-    int req=arr[n-1]*(n-1);
-    if(req<sum){
-       int need=sum-req;
-       int x=(need+n-2)/(n-1);
-       req+=(x*(n-1));
+    int dt=(sum+n-2)/(n-1);
+    int req=dt*(n-1);
+    //req+=arr[0];
+    if(dt<arr[n-1]){
+        req=arr[n-1]*(n-1);
     }
     cout << req-sum << endl;
     /*if(sum%arr[n-1]==0){
