@@ -91,21 +91,22 @@ bool sortinrev(const pair<int,int> &a,
 
 ///solution
 void solution(){
-    unsigned int n;
+    int n;
     cin>>n;
-    unsigned int left=1,right=2e9,ans=0;
-    while(left<=right){
-        unsigned int mid=(left+right)/2;
-        unsigned int xx=(mid*(mid+1))/2;
-        if(xx>n+1){
-            right=mid-1;
+    int l=0;
+    int r=2e9;
+    while(l+1<r){
+        int mid=(l+r)/2;
+        int xx=(mid*(mid+1))/2;
+        if(xx<=n+1){
+            l=mid;
         }
-        else if(xx<=n+1){
-            left = mid+1;
-            ans=mid;
+        else{
+            r=mid;
         }
+       // debug(l,r,mid);
     }
-    cout << n-(ans-1) << endl;
+    cout << n-l+1 << endl;
 }
 signed main()
 {
