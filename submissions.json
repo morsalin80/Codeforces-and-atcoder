@@ -1,4 +1,22 @@
 {
+  "CF100291801": {
+    "contest_id": 9,
+    "language": "GNU C++17",
+    "path": "codeforces\\9\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hexadecimal's Numbers",
+    "problem_url": "https://codeforces.com/contest/9/problem/C",
+    "submission_id": "CF100291801",
+    "submission_url": "https://codeforces.com/contest/9/submission/100291801",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Dec/03/2020 22:44"
+  },
   "CF100356413": {
     "contest_id": 1453,
     "language": "GNU C++17",
