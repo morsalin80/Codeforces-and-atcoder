@@ -1,4 +1,21 @@
 {
+  "CF100283338": {
+    "contest_id": 382,
+    "language": "GNU C++17",
+    "path": "codeforces\\382\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Arithmetic Progression",
+    "problem_url": "https://codeforces.com/contest/382/problem/C",
+    "submission_id": "CF100283338",
+    "submission_url": "https://codeforces.com/contest/382/submission/100283338",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Dec/03/2020 21:00"
+  },
   "CF100291120": {
     "contest_id": 388,
     "language": "GNU C++17",
