@@ -38,10 +38,9 @@ void factor(int x){
 int main(){
     ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
     seive();
-    long long n;
+    long long n,x;
     cin>>n;
     for(int i=0;i<n;i++){
-        long long x;
         cin>>x;
         factor(x);
     }
