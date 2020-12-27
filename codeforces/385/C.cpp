@@ -53,7 +53,7 @@ int main(){
         long long l,r;
         cin>>l>>r;
         if(l>=1e7){
-           cout << "0\n";
+            cout << 0<<endl;
         }
         else if(r>1e7){
             cout<<pre[(int)1e7]-pre[l-1]<<endl;
