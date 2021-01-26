@@ -93,8 +93,7 @@ void solution(){
         cin>>v>>p;
         w+=(v*p);
         if(w>x*100 && ans==-1){
-            cout << i+1 << endl;
-            return;
+            ans=i+1;
         }
     }
     cout << ans << endl;
