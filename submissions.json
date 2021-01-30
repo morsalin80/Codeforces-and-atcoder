@@ -1,4 +1,20 @@
 {
+  "AC19825736": {
+    "contest_id": "abc139",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc139\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Power Socket",
+    "problem_url": "https://atcoder.jp/contests/abc139/tasks/abc139_b",
+    "submission_id": "AC19825736",
+    "submission_url": "https://atcoder.jp/contests/abc139/submissions/19825736",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 22:06"
+  },
   "AC19826170": {
     "contest_id": "code-festival-2016-qualb",
     "language": "C++ (GCC 9.2.1)",
