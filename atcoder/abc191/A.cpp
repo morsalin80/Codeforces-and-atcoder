@@ -96,10 +96,10 @@ void solution(){
 signed main()
 {
     IOS
-    /*#ifndef ONLINE_JUDGE
+    #ifndef ONLINE_JUDGE
         freopen ("input.txt","r",stdin);
         freopen ("output.txt","w",stdout);
-    #endif*/
+    #endif
     int t;
     t=1;
     //cin>>t;
