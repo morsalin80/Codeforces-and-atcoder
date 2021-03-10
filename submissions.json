@@ -1,4 +1,22 @@
 {
+  "CF109547889": {
+    "contest_id": 1215,
+    "language": "GNU C++17",
+    "path": "codeforces\\1215\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Number of Products",
+    "problem_url": "https://codeforces.com/contest/1215/problem/B",
+    "submission_id": "CF109547889",
+    "submission_url": "https://codeforces.com/contest/1215/submission/109547889",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Mar/10/2021 15:39"
+  },
   "CF109549320": {
     "contest_id": 816,
     "language": "GNU C++17",
