@@ -1,4 +1,23 @@
 {
+  "CF109770030": {
+    "contest_id": 804,
+    "language": "GNU C++17",
+    "path": "codeforces\\804\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimum number of steps",
+    "problem_url": "https://codeforces.com/contest/804/problem/B",
+    "submission_id": "CF109770030",
+    "submission_url": "https://codeforces.com/contest/804/submission/109770030",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Mar/12/2021 15:47"
+  },
   "CF109772358": {
     "contest_id": 1103,
     "language": "GNU C++17",
