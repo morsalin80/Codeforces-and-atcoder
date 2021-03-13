@@ -31,7 +31,7 @@ using namespace std;
 #define PI acos(-1)
 #define sz(a) (int)a.size();
 #define IOS ios::sync_with_stdio(false);
- 
+
 ///for debug
 vector<string> vec_splitter(string s) {    s += ',';vector<string> res;while(!s.empty()) {res.push_back(s.substr(0, s.find(',')));s = s.substr(s.find(',') + 1);}return res;}
 void debug_out( vector<string> __attribute__ ((unused)) args,__attribute__ ((unused)) int idx,__attribute__ ((unused)) int LINE_NUM) { cerr << endl; }
@@ -44,8 +44,8 @@ void debug_out(vector<string> args, int idx, int LINE_NUM, Head H, Tail... T) { 
 #define debug(...) 42
 #endif
 ///debug template ends
- 
- 
+
+
 int gcd(int a, int b) { if (a == 0) return b; return gcd(b % a, a);}
 int lcm(int a,int b) {return (a*b)/gcd(a,b);}
 int dx8[] = {0, 0, 1, 1, 1, -1, -1, -1};
@@ -75,13 +75,13 @@ inline ll modPow(ll b, ll p) { ll r = 1; while(p) { if(p&1) r = modMul(r, b); b 
 inline ll modInverse(ll a) { return modPow(a, MOD-2); }  /// When MOD is prime.
 inline ll modDiv(ll a, ll b) { return modMul(a, modInverse(b)); }
 ///modular arithmetic template ends
- 
+
 bool sortinrev(const pair<int,int> &a,
                const pair<int,int> &b)
 {
        return (a.first > b.first);
 }
- 
+
 ///solution
 void solution(){
     int n;
@@ -119,3 +119,4 @@ signed main()
     return 0;
 }
 ///Alhamdulillah
+
