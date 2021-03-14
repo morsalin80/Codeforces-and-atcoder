@@ -105,7 +105,6 @@ void solution(){
         }
         else cout << "1 ";
     }
-    
     cout << endl;
 }
 signed main()
