@@ -1,4 +1,20 @@
 {
+  "AC20969618": {
+    "contest_id": "abc195",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc195\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Shipping Center",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_d",
+    "submission_id": "AC20969618",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20969618",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/15/2021 21:39"
+  },
   "AC20977317": {
     "contest_id": "abc195",
     "language": "C++ (GCC 9.2.1)",
