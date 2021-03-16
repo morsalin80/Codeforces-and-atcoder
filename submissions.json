@@ -1,4 +1,20 @@
 {
+  "AC20977317": {
+    "contest_id": "abc195",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc195\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Lucky 7 Battle",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_e",
+    "submission_id": "AC20977317",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20977317",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Mar/16/2021 12:53"
+  },
   "AC20977758": {
     "contest_id": "abc195",
     "language": "C++ (GCC 9.2.1)",
