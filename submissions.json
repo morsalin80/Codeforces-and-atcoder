@@ -1,4 +1,20 @@
 {
+  "AC21114384": {
+    "contest_id": "abc193",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc193\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Play Snuke",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_b",
+    "submission_id": "AC21114384",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/21114384",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/20/2021 23:01"
+  },
   "AC21115626": {
     "contest_id": "abc193",
     "language": "C++ (GCC 9.2.1)",
