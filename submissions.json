@@ -1,4 +1,20 @@
 {
+  "AC21113687": {
+    "contest_id": "abc193",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc193\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Discount",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_a",
+    "submission_id": "AC21113687",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/21113687",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/20/2021 22:29"
+  },
   "AC21114384": {
     "contest_id": "abc193",
     "language": "C++ (GCC 9.2.1)",
