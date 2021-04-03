@@ -129,7 +129,6 @@ void solution(){
     			return;
     		}
     	}
-    	
     }
     cout << "YES\n";
 }
@@ -145,4 +144,4 @@ signed main()
     return 0;
 }
 ///Alhamdulillah
- 
+
