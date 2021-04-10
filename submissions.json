@@ -1,4 +1,23 @@
 {
+  "CF112586178": {
+    "contest_id": 1512,
+    "language": "GNU C++14",
+    "path": "codeforces\\1512\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Short Task",
+    "problem_url": "https://codeforces.com/contest/1512/problem/G",
+    "submission_id": "CF112586178",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112586178",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Apr/11/2021 04:09"
+  },
   "CF112669785": {
     "contest_id": 1513,
     "language": "GNU C++14",
