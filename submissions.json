@@ -1,4 +1,23 @@
 {
+  "CF113694472": {
+    "contest_id": 1288,
+    "language": "GNU C++14",
+    "path": "codeforces\\1288\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Deadline",
+    "problem_url": "https://codeforces.com/contest/1288/problem/A",
+    "submission_id": "CF113694472",
+    "submission_url": "https://codeforces.com/contest/1288/submission/113694472",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "ternary search",
+      "*1100"
+    ],
+    "timestamp": "Apr/21/2021 15:28"
+  },
   "CF113695460": {
     "contest_id": 1097,
     "language": "GNU C++14",
