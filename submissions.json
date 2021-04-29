@@ -1,4 +1,22 @@
 {
+  "CF114530015": {
+    "contest_id": 1344,
+    "language": "GNU C++14",
+    "path": "codeforces\\1344\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hilbert's Hotel",
+    "problem_url": "https://codeforces.com/contest/1344/problem/A",
+    "submission_id": "CF114530015",
+    "submission_url": "https://codeforces.com/contest/1344/submission/114530015",
+    "tags": [
+      "math",
+      "number theory",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Apr/29/2021 18:08"
+  },
   "CF114838589": {
     "contest_id": 706,
     "language": "GNU C++14",
