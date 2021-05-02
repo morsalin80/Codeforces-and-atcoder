@@ -1,4 +1,21 @@
 {
+  "CF114842064": {
+    "contest_id": 1342,
+    "language": "GNU C++14",
+    "path": "codeforces\\1342\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Counting Problem",
+    "problem_url": "https://codeforces.com/contest/1342/problem/C",
+    "submission_id": "CF114842064",
+    "submission_url": "https://codeforces.com/contest/1342/submission/114842064",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/02/2021 15:44"
+  },
   "CF114868271": {
     "contest_id": 1515,
     "language": "GNU C++14",
