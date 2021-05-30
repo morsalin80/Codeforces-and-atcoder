@@ -2719,6 +2719,22 @@
     ],
     "timestamp": "May/29/2021 18:45"
   },
+  "AC23044815": {
+    "contest_id": "abc203",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc203\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "AtCoder Condominium",
+    "problem_url": "https://atcoder.jp/contests/abc203/tasks/abc203_b",
+    "submission_id": "AC23044815",
+    "submission_url": "https://atcoder.jp/contests/abc203/submissions/23044815",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/30/2021 18:06"
+  },
   "AC23050771": {
     "contest_id": "abc203",
     "language": "C++ (GCC 9.2.1)",
